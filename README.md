@@ -1,6 +1,6 @@
 ### Hi there, I'm Mike - aka [TracedContent][website] 👋
 
-[![Website](https://img.shields.io/website?label=miketierce.com&style=for-the-badge&url=https%3A%2F%miketierce.com)](https://miketierce.com)
+[![Website](https://img.shields.io/endpoint?color=sucess&label=TracedContent.App&style=for-the-badge&url=https%3A%2F%2Fus-central1-tc-cloud.cloudfunctions.net%2FgitBadge)](https://miketierce.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/miketierce?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmiketierce&screen_name=miketierce)
 
 ## I'm a Husband, Father, Developer, and Christian!!
